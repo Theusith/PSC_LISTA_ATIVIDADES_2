@@ -1,7 +1,6 @@
 //Crie um algoritmo que leia um valor de hora (HH:MM)
 // e informe (calcule) quantos minutos se passaram desde o início do dia (00:00).//
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
